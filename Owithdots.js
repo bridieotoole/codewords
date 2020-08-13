@@ -22,7 +22,7 @@ strokeWeight (3);
 fill (mouseX/2,(mouseX+mouseY/4),mouseY/2);
 ellipse (250,250,230,350);
 fill (mouseY/2,(mouseY+mouseX/4),mouseX/2);
-ellipse (250,250,130,250);
+ellipse (251,250,130,250);
 fill (mouseX/2,(mouseX+mouseY/4),mouseY/2);
 noStroke ();
 }
