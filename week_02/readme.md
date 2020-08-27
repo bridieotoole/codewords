@@ -1,3 +1,7 @@
+# Hunting and Gathering
+## Week 02
+
+
 
 Week 2 The first two iterations of my initials 'B' and 'O'.
 
