@@ -1,6 +1,5 @@
 function preload () {
   // Ensure the .ttf or .otf font stored in the assest directory
-  // is loaded before sesrtup() and draw() are called
   akzidenz = loadFont('data/Akzidenz-Grotesk-Medium.otf'); 
 }
 var spin=0;
