@@ -1,7 +1,7 @@
 # Introduction 
 ## Week 2 
 
-![](B.jpg)
+![](/B/B.jpg)
 My initials 'B' and 'O'.
 
 Our homework for the week was to create our initials on a 500x500 pixel canvas. I chose to create blocky, capital letters which change colour based on curser location.
