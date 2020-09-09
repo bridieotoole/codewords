@@ -3,6 +3,6 @@
 ## Learning about Pseudo Code
 
 
-![example gif] (Gif1.gif)
+![example gif](Gif1.gif)
 
-![continued gif] (Gif2.gif)
+![continued gif](Gif2.gif)
