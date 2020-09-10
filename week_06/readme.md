@@ -24,6 +24,8 @@ During the break we were tasked with creating a paper prototype for the major ta
 
 "And yet this naked body of words just now starting to play out its creative potential is not really my own. It’s part of something much larger than me— some kind of dynamic, shape-shifting intersubjectivity where I am always losing sight of myself as I improvisationally interact with The Network and, without thinking about it, intuitively manipulate the pulse of Time (as if such a thing as Time could actually exist)." - Cyberpsychogeography by Mark Amerika (2007)
 
+The line in the gif is intended to represent the words pulled from Amerika's text.
+
 ![example gif](Gif1.gif)
 
 ![continued gif](Gif2.gif)
