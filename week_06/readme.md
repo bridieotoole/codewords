@@ -32,5 +32,4 @@ The line in the gif is intended to represent the words pulled from Amerika's tex
 
 
 Geos Oblivion by @aka_chang following the charming notes of @shahab_sahhaf - inspirstion shared by Jamie Tung to me.
-[centre]
 ![gif of sphere](sphere.gif)
