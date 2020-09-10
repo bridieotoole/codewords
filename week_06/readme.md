@@ -1,6 +1,8 @@
-# Pseudo Pstuff - Week 06 
+# Pseudo Pstuff
 
-## Learning about Pseudo Code
+## Week 06 
+
+Learning about Pseudo Code
 
 START <br>
 	Pick up toothbrush, apply toothpaste to bristles <br>
