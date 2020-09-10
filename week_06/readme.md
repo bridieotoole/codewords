@@ -6,17 +6,17 @@ Learning about Pseudo Code
 
 ```
 START
-	Pick up toothbrush, apply toothpaste to bristles 
+  Pick up toothbrush, apply toothpaste to bristles 
 INPUT 
-	View teeth in mirror, measure tooth fur with tongue 
+  View teeth in mirror, measure tooth fur with tongue 
 IF 
-	furry 
+  furry 
 OR 
-	not white, brush for 2 minutes 
+  not white, brush for 2 minutes 
 READ 
-	reassess furriness 
+  reassess furriness 
 WHILE 
-	furRemains FLOSS 
+  furRemains FLOSS 
 END 
 ```
 
