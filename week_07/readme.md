@@ -3,12 +3,17 @@
 ## Week 7 
 
 ~ reviewed our learninngs from the semester so far 
+
 ~ discussed the SKO submission for wk 13 and checked out the syllabus 
+
 ~ Talked about the Mark Marino book on Critical Code Studies 
   - he collaborated iwth data scientists and presented findings of climate change 
   - non executable code
+  
 ~ which leads us into MORE pseudo code 
+
 ~ Karen discussed a very current issue for Australian Universities-cuts! 
+
 (27 librarians to be let go this week, make-a-space - no longer and all HDR scholarships frozen...) 
 
 ```
