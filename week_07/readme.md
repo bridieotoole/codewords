@@ -2,7 +2,7 @@
 
 ## Week 7 
 
-~ reviewed our learninngs from the semester so far 
+~ reviewed our learninngs from the semester so far, from weeks 1-6
 
 ~ discussed the SKO submission for wk 13 and checked out the syllabus 
 
