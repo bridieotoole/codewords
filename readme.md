@@ -3,7 +3,7 @@ Codewords Studio 2020
 
 Dabbling in the world of E-Lit, Pseudo Code, Processing and all in between. 
 
-### <a ref="week_01">Week 01 </a> 
+### <a ref="week_01/readme.md">Week 01 </a> 
 
 ### <a ref="week_02">Week 02 </a> 
 
