@@ -6,7 +6,7 @@ Today in class, we opened the day by huntering and gathering examples of moldula
 ![Ahn Sang Soo Mano Typeface Example](AhnSangSooMano.jpg)
 ```Image: Typeface created by Ahn Sang Soo Mano``` 
 
-While it wasn't necessary to have a digitally created typeface, the artist I selected is a linoleum artist. Leonie Staman 3D prints her alphabet and manually traces these to create type inspired by the Spirograph techique most children will remember recieving as gifts from the 90's-00's. 
+While it wasn't necessary to have a digitally created typeface, the artist I selected is a linoleum artist. [*Leonie Staman*](https://www.detoffetoko.nl/leonie-staman) 3D prints her alphabet and manually traces these to create type inspired by the Spirograph techique most children will remember recieving as gifts from the 90's-00's. 
 
 <img src="https://github.com/bridieotoole/codewords/blob/master/week_02/LeonieStaman.jpg" width=50% height=50%><img src="https://github.com/bridieotoole/codewords/blob/master/week_02/closeup.jpg" width=50% height=50%>
 ```Image: Artwork created by Leonie Staman, Dutch linoleum artist.``` 
