@@ -1,5 +1,5 @@
 # Introduction 
-## Week 2 
+## Week 1
 
 ![processing screenshot](B.jpg)
 
