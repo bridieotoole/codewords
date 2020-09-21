@@ -7,6 +7,6 @@ Today in class, we opened the day by huntering and gathering examples of moldula
 ```Image: Typeface created by Ahn Sang Soo Mano``` 
 
 While it wasn't necessary to have a digitally created typeface, the artist I selected is a linoleum artist. Leonie Staman 3D prints her alphabet and manually traces these to create type inspired by the Spirograph techique most children will remember recieving as gifts from the 90's-00's. 
-![Close-up Example of Spirograph](closeup.jpg)
-![Spirograph Example](LeonieStaman.jpg)
+![Close-up Example of Spirograph](closeup.jpg | width=150)
+![Spirograph Example](LeonieStaman.jpg | width=150)
 ```Image: Artwork created by Leonie Staman, Dutch linoleum artist.``` 
