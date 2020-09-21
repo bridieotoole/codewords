@@ -11,6 +11,7 @@ While it wasn't necessary to have a digitally created typeface, the artist I sel
 <img src="https://github.com/bridieotoole/codewords/blob/master/week_02/LeonieStaman.jpg" width=50% height=50%><img src="https://github.com/bridieotoole/codewords/blob/master/week_02/closeup.jpg" width=50% height=50%>
 ```Image: Artwork created by Leonie Staman, Dutch linoleum artist.``` 
 <img src="https://github.com/bridieotoole/codewords/blob/master/week_02/spirograph.jpg" width=50% height=50%>
+
 ```Perhaps this will spark your memory!```
 
 ## Re-readings 
