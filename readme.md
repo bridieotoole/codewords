@@ -10,3 +10,5 @@ Dabbling in the world of E-Lit, Pseudo Code, Processing and all in between.
 ### <a href="week_05">Week 05 </a>  |  Pre-Screening of Re-Reading
 ### <a href="week_06">Week 06 </a>  |  Pseudo Pstuff
 ### <a href="week_07">Week 07 </a>  |  Making FUNctions
+### <a href="week_08">Week 08 </a>  |  
+### <a href="week_09">Week 09 </a>  |  
