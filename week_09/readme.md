@@ -4,4 +4,5 @@
 ![screenshot](majortest.jpg)
 
 
-![heartbeat](heartbeat.gif)
+
+<img src="https://github.com/bridieotoole/codewords/blob/master/week_09/heartbeat.gif" width=100%>
