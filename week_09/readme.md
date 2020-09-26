@@ -4,4 +4,4 @@
 ![screenshot](majortest.jpg)
 
 
-![heartbeat](heartbeat.jif)
+![heartbeat](heartbeat.gif)
