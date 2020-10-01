@@ -15,4 +15,5 @@ This week our group; Wen, Yutang, Faye, Peem and myself are refining the build o
 ![MC screenshot](Minecraftscreenshot.jpg) 
 
 
-### <a href='https://bridieotoole.github.io/codewords/week_05/'> Next Week - Pre-Screening of Re-Reading </a>
+### <a href='https://bridieotoole.github.io/codewords/week_05/'> --> Next Week/Pre-Screening of Re-Reading </a>
+#### <a href='https://bridieotoole.github.io/codewords/week_03/'> <-- Last Week/Electronic Literature </a>
