@@ -12,4 +12,4 @@ I did some research for the background because I wanted something which was inte
 ![example gif](B.gif)
 ![example gif](O.gif)
 
-
+### <a href='https://bridieotoole.github.io/codewords/week_02/'> Next Week - Hunting and Gathering </a> 
