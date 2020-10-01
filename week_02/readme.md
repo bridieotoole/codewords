@@ -11,9 +11,6 @@ While it wasn't necessary to have a digitally created typeface, the artist I sel
 ![leoniestaman](LeonieStaman.jpg)![closeup](closeup.jpg)
 
 ```Image: Artwork created by Leonie Staman, Dutch linoleum artist.``` 
-<img src="https://bridieotoole.github.io/codewords/week_02/spirograph.jpg" width=50% height=50%>
-
-```Perhaps this will influence some nostalgia```
 
 ## Re-readings 
 In order to explore and re-tell our dedicated text House of Leaves, our group; Wen, Yutang, Faye, Peem and myself have decided to leap into the unknown Minecraft. Our [*machinima*](https://en.wikipedia.org/wiki/Machinima) themed project is to communicate a chapter from the horror and romance novel within a child dominated platform. The 8-bit inspired game is ruled by physics while having infitnite possibilities (all of which we have no idea how to use, this'll be the groups first time exeriencing this world).
