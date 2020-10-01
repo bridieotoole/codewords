@@ -14,5 +14,5 @@ I did some research for the background because I wanted something which was inte
 
 test                         |                      <a href='https://bridieotoole.github.io/codewords/week_02/'>--> Next Week/Hunting and Gathering</a>)
 :-------------------------:|:-------------------------:
-Codewords Studio | Semester 2 2020
+Codewords Studio                 |                       Semester 2 2020
 
