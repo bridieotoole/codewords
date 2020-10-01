@@ -13,4 +13,4 @@ I did some research for the background because I wanted something which was inte
 ![example gif](O.gif)
 
 
-### <a href="week_02">Next Week --></a>  |  Week 2 - Hunting and Gathering
+Week 2 - Hunting and Gathering ### <a href="week_02">Next Week --></a>
