@@ -36,5 +36,5 @@ Geos Oblivion by @aka_chang following the charming notes of @shahab_sahhaf - ins
 
 
 
-### <a href='https://bridieotoole.github.io/codewords/week_07/'> --> Next Week - Making FUNctions </a>
+### <a href='https://bridieotoole.github.io/codewords/week_07/'> --> Next Week/Making FUNctions </a>
 #### <a href='https://bridieotoole.github.io/codewords/week_05/'> <-- Last Week/Pre-Screening of Re-Reading </a>
