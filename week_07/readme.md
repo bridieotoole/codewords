@@ -40,3 +40,6 @@ void fightTheCuts() {
 ~ Example of P5js remix soundtest with Karen 
 
 ![paperprototype](pp.gif) 
+
+
+### <a href='https://bridieotoole.github.io/codewords/week_08/'> Next Week - Objectified </a>
