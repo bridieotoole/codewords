@@ -64,5 +64,5 @@ function draw() {
 } 
 ``` 
 
-### <a href='https://bridieotoole.github.io/codewords/week_11/'> --> Next Week/Week 11 </a>
-#### <a href='https://bridieotoole.github.io/codewords/week_09/'> <-- Last Week/An Admiral Start </a>
+<a href='https://bridieotoole.github.io/codewords/week_09/'> <-- Last Week/An Admiral Start </a> | <a href='https://bridieotoole.github.io/codewords/week_11/'> Next Week/Week 11 --> </a>
+:-------------------------:|:-------------------------:
