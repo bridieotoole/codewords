@@ -14,4 +14,4 @@ Dabbling in the world of E-Lit, Pseudo Code, Processing and all in between.
 ### <a href='https://bridieotoole.github.io/codewords/week_09/'>Week 09</a>  |  An Admiral Start
 ### <a href='https://bridieotoole.github.io/codewords/week_10/'>Week 10</a>  |  Noto Type 
 
-### <a href='https://bridieotoole.github.io/codewords/week_03/'> Next Week - Electronic Literature </a>
+
