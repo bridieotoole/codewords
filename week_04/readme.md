@@ -13,3 +13,6 @@ Fergus introduced us to the map function, which instead of a consistant rotation
 This week our group; Wen, Yutang, Faye, Peem and myself are refining the build of our Minecraft world for recording. My biggest limitation is the smooth recording. For some reason my content isn't displaying as consistant as the others. We've probably spent a few days re-shooting scenes for the best effect. 
 
 ![MC screenshot](Minecraftscreenshot.jpg) 
+
+
+### <a href='https://bridieotoole.github.io/codewords/week_05/'> Next Week - Pre-Screening of Re-Reading </a>
