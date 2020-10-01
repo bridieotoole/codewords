@@ -3,7 +3,7 @@
 
 ![processing screenshot](B.jpg)
 
-My initials 'B' and 'O'.
+My initials [*'B'*](https://bridieotoole.github.io/codewords/week_01/B/) and [*'O'*](https://bridieotoole.github.io/codewords/week_01/Owithdots/).
 
 Our homework for the week was to create our initials on a 500x500 pixel canvas. I chose to create blocky, capital letters which change colour based on curser location.
 
