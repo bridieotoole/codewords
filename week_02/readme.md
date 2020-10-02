@@ -6,7 +6,6 @@ Today in class, we opened the day by huntering and gathering examples of moldula
 <p align="center">
 
 ![](modularslidessmall.gif)
-:-------------------------:
 
 </p>
 
