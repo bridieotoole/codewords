@@ -7,5 +7,9 @@ Our group used Minecraft EE to recreate the introduction chapter of House of Lea
 
 ![Minecraft screenshot](MCfirescreenshot.jpg)
 
+<div align="center">
+
 <a href='https://bridieotoole.github.io/codewords/week_04/'> <-- Last Week/Spinning Text </a> | <a href='https://bridieotoole.github.io/codewords/week_06/'> Next Week/Pseudo Pstuff --></a>
   :-------------------------:|:-------------------------:
+
+</div>
