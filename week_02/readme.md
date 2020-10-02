@@ -5,6 +5,7 @@ Today in class, we opened the day by huntering and gathering examples of moldula
 :-------------------------:|:-------------------------:
 
 ![](modular-slides.gif)
+
 Some of the found letterforms included epic, generative brutalist styles from Tais Ghelli, to contemporary and simplified forms from Ahn Sang Soo Mano and Logan Dufrn. 
 ![Ahn Sang Soo Mano Typeface Example](AhnSangSooMano.jpg)
 ```Image: Typeface created by Ahn Sang Soo Mano``` 
