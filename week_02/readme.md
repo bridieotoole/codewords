@@ -3,6 +3,7 @@
 
 Today in class, we opened the day by huntering and gathering examples of moldular typefaces and showing these off in a [*Google Slide*](https://docs.google.com/presentation/d/1N2hAFp6si7UsVuPj1oMQ21_HHF858NbXZna0YQxOQio/edit#slide=id.p).  
 
+:-------------------------:
 ![](modularslidessmall.gif)
 
 Some of the found letterforms included epic, generative brutalist styles from Tais Ghelli, to contemporary and simplified forms from Ahn Sang Soo Mano and Logan Dufrn. 
