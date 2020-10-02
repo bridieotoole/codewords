@@ -3,7 +3,11 @@
 
 ![screenshot](majortest.jpg)
 
+<div align="center">
+
 ![](heartbeat.gif)
+
+</div>
 
 <div align="center">
 
