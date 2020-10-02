@@ -41,5 +41,9 @@ void fightTheCuts() {
 
 ![paperprototype](pp.gif) 
 
+<div align="center">
+
 <a href='https://bridieotoole.github.io/codewords/week_06/'> <-- Last Week/Pseudo Pstuff </a> | <a href='https://bridieotoole.github.io/codewords/week_08/'> Next Week/Objectified --> </a>
 :-------------------------:|:-------------------------:
+  
+</div>
