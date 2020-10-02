@@ -1,7 +1,7 @@
 # Introduction 
 ## Week 1
 
-In today's age, our concentration is limited and we are easily distrac... 
+In today's age, our concentration is limited and we are easily distrac... <br>
 *What was the most recent book you interacted with?* <br>
 *What was the most recent long-form text you read?*<br>
 *Where do you get your news/info?*<br>
