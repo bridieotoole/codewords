@@ -1,7 +1,7 @@
 # Electronic Literature 
 ## Week 03
 
-(Under Construction) 
+*(Under Construction)*
 
 ![](electronicslides.gif)
 :-------------------------:
