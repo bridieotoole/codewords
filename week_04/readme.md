@@ -6,7 +6,7 @@ We experimented in the afternoon with Karen in Processing. Our task was followin
 
 Fergus introduced us to the map function, which instead of a consistant rotation, could increase the speed of clockwise/anti-clockwise rotation depending on how far across the canvas the mouse is located. Today was one of the best days of student collaboration our class has had, instead of relying solely on the instruction and guidance of Karen and Andy(who have dominated, by the way)-perhaps one of the biggest limitations online teaching has shown this year.
 
-![example gif](helloworld.gif) | ![](spiroworm.gif)
+![](spiroworm.gif) | ![example gif](helloworld.gif)
 :-------------------------:|:-------------------------:
 
 
