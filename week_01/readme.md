@@ -15,7 +15,6 @@ I did some research for the background because I wanted something which was inte
 <p align="center">
   
 <a href='https://bridieotoole.github.io/codewords/week_02/'>Next Week/Hunting and Gathering --></a>
-:-------------------------:
 
 </p>
 
