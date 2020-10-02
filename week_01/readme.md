@@ -1,6 +1,8 @@
 # Introduction 
 ## Week 1
 
+![minecraft](minecraftss.jpg)
+
 ![processing screenshot](B.jpg)
 
 My initials [*'B'*](https://bridieotoole.github.io/codewords/week_01/B/) and [*'O'*](https://bridieotoole.github.io/codewords/week_01/Owithdots/).
