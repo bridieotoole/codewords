@@ -10,7 +10,7 @@ I'm referencing [*Google Noto*](https://www.google.com/get/noto/) which Karen an
 
 ![periwinkleprintgif](periwinkleprint.gif)
 
-</div><br>
+</div>
 Today in class we presented a milestone checkpoint. [*Here*](https://bridieotoole.github.io/codewords/week_10/PeriwinkleTypedText/) is where I'm at this week. Working now to have words dissapear/dissolve/'float' down window with mouse pressed function, or mouse hover. Even find a way to redraw the background and fade the 'old' words. 
 
 ```
@@ -67,6 +67,9 @@ function draw() {
   }
 } 
 ``` 
+<div align="center">
 
 <a href='https://bridieotoole.github.io/codewords/week_09/'> <-- Last Week/An Admiral Start </a> | <a href='https://bridieotoole.github.io/codewords/week_11/'> Next Week/Week 11 --> </a>
 :-------------------------:|:-------------------------:
+  
+</div>
