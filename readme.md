@@ -3,7 +3,6 @@
 
 #### Dabbling in the world of E-Lit, Pseudo Code, Processing and all in between. 
 
-<p align="center">
 
 ### <a href='https://bridieotoole.github.io/codewords/week_01/'>Week 01</a>  |  Introduction
 ### <a href='https://bridieotoole.github.io/codewords/week_02/'>Week 02</a>  |  Hunting and Gathering
