@@ -2,9 +2,9 @@
 ## Week 1
 
 In today's age, our concentration is limited and we are easily distrac... 
-<br>*What was the most recent book you interacted with?
-What was the most recent long-form text you read?
-Where do you get your news/info?
+*What was the most recent book you interacted with?*
+*What was the most recent long-form text you read?*
+*Where do you get your news/info?*
 
 ...oh yes - we want our information quick, concise and in bullet points before commiting to giving our precious time to an article, lest a book. <br>
 Opening the Semester, Andy and Karen introduced us to what we'd be covering over the next 13 or so weeks. Our first task will be covering a chapter of [*House of Leaves*] by Mark Z. Danielewski. In groups, we will perform an extract in a digital world.
