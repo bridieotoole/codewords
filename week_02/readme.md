@@ -22,6 +22,6 @@ In order to explore and re-tell our dedicated text House of Leaves, our group; W
 
 <p align="center">
 
-#### <a href='https://bridieotoole.github.io/codewords/week_01/'> <-- Last Week/Introduction </a> | <a href='https://bridieotoole.github.io/codewords/week_03/'> Next Week/Electronic Literature --></a>
+<a href='https://bridieotoole.github.io/codewords/week_01/'> <-- Last Week/Introduction </a> | <a href='https://bridieotoole.github.io/codewords/week_03/'> Next Week/Electronic Literature --></a>
 
 </p>
