@@ -13,7 +13,8 @@ Some of the found letterforms included epic, generative brutalist styles from Ta
 
 While it wasn't necessary to have a digitally created typeface, the artist I selected is a linoleum artist. [*Leonie Staman*](https://www.detoffetoko.nl/leonie-staman) 3D prints her alphabet and manually traces these to create type inspired by the Spirograph techique most children will remember recieving as gifts from the 90's-00's. 
 
-![leoniestaman](LeonieStaman.jpg)![closeup](closeup.jpg)
+![leoniestaman](LeonieStaman.jpg) | ![closeup](closeup.jpg)
+:--------------------:|:-------------------:
 
 ```Image: Artwork created by Leonie Staman, Dutch linoleum artist.``` 
 
