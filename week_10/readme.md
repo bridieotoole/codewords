@@ -14,7 +14,7 @@ Today in class we presented a milestone checkpoint. [*Here*](https://bridieotool
 
 [*Snowflakes by Aatish Bhatia*](https://p5js.org/examples/simulate-snowflakes.html) | Up Banking - Savers Goal
 :-------------------------:|:-------------------------:
-![snowflake sketch]() | ![Up Example](upbanking.gif)
+![snowflake sketch](snowflake.gif) | ![Up Example](upbanking.gif)
 
 
 Through some digging, I found this example replicated the sinking I'd like to create with words disspearing from the screen. Because Amerika's text refers to 'stopping of time', I feel the weightlessness of water to be somewhat a close analogy.
