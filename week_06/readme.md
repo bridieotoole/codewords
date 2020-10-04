@@ -26,9 +26,8 @@ During the break we were tasked with creating a paper prototype for the major ta
 
 The line in the gif is intended to represent the words pulled from Amerika's text.
 
-![example gif](Gif1.gif)
-
-![continued gif](Gif2.gif)
+:-------------------------:|:-------------------------:
+![example gif](Gif1.gif) | ![continued gif](Gif2.gif)
 
 
 Geos Oblivion by @aka_chang following the charming notes of @shahab_sahhaf - inspirstion shared by Jamie Tung to me.
