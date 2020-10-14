@@ -14,6 +14,6 @@
 ### <a href='https://bridieotoole.github.io/codewords/week_08/'>Week 08</a>  |  Objectified
 ### <a href='https://bridieotoole.github.io/codewords/week_09/'>Week 09</a>  |  An Admiral Start
 ### <a href='https://bridieotoole.github.io/codewords/week_10/'>Week 10</a>  |  Noto Type 
-### <a href='https://bridieotoole.github.io/codewords/week_11/'>Week 11</a>  |  
-
+### <a href='https://bridieotoole.github.io/codewords/week_11/'>Week 11</a>  |  Artist Statement
+### <a href='https://bridieotoole.github.io/codewords/week_12/'>Week 12</a>
 
