@@ -6,6 +6,6 @@ As you can see I've not made any progress.. I'm losing faith in my abilties now.
 
 <p align="center">
 
-<a href='https://bridieotoole.github.io/codewords/week_10/'> <-- Last Week/Noto Type </a> | <a href='https://bridieotoole.github.io/codewords/week_12/'> Next Week --> </a>
+<a href='https://bridieotoole.github.io/codewords/week_10/'> <-- Last Week/Noto Type </a> | <a href='https://bridieotoole.github.io/codewords/week_12/'> Next Week/Lost In Time --> </a>
 
 </p>
