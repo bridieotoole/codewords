@@ -12,6 +12,8 @@ To embody the etherial essence of losing sense of time, a rendition of the timel
 
 Through iterative design choices, I played with the concept of being submerged underwater. The weightlessness forced upon all objects once below is the closest sensation we can experience to the stopping of time. I’ve chosen a murky pale blue background for the ‘white-wash’ text to float beneath and drift away from view. 
 
+![finalscreenshot](Lostintime_1024_01.gif)
+
 <p align="center">
 
 <a href='https://bridieotoole.github.io/codewords/week_11/'> <-- Last Week/Artist Statement </a>
