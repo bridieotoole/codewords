@@ -35,6 +35,7 @@ void fightTheCuts() {
 ``` 
 ## P5 Play
 
+P5 Play Background Game | P5 Play Collisions Example
 :-------------------------:|:-------------------------: 
 ![](p5play.gif) | ![](p5playanimations.gif)
 
