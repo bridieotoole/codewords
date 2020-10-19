@@ -14,7 +14,7 @@ Through iterative design choices, I played with the concept of being submerged u
 
 ![finalscreenshot](Lostintime_1024_01.gif)
 
-![final goodbyes](Andyandkaren.jpg)
+![final goodbyes](AndyAndKaren.jpg)
 
 <p align="center">
 
