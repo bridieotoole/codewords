@@ -1,3 +1,4 @@
+# Artist Statement
 
 ## Week 11 
 
