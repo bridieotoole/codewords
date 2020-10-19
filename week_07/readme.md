@@ -35,7 +35,7 @@ void fightTheCuts() {
 ``` 
 ## P5 Play
 
-P5 Play Background Game | *[P5 Play Collisions Example]*(https://molleindustria.github.io/p5.play/examples/index.html?fileName=collisions.js)
+P5 Play Background Game | [*P5 Play Collisions Example*](https://molleindustria.github.io/p5.play/examples/index.html?fileName=collisions.js)
 :-------------------------:|:-------------------------: 
 ![](p5play.gif) | ![](p5playanimations.gif)
 
