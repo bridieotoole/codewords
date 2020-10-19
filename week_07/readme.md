@@ -34,8 +34,10 @@ void fightTheCuts() {
 } 
 ``` 
 ## P5 Play
-![](p5play.gif)
-![](p5playanimations.gif)
+
+:--------------------:|:--------------------:
+![](p5play.gif) | ![](p5playanimations.gif)
+
 ~ Later in the lesson, we explored P5 Play
 
 ~ I FREAKING LOVE THESE GAMES 
