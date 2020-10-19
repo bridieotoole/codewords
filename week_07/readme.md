@@ -39,6 +39,8 @@ void fightTheCuts() {
 
 ~ Example of P5js remix soundtest with Karen 
 
+## Further Paper Prototyping
+
 ![paperprototype](pp.gif) 
 
 <p align="center">
