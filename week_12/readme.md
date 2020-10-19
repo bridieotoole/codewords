@@ -14,6 +14,8 @@ Through iterative design choices, I played with the concept of being submerged u
 
 ![finalscreenshot](Lostintime_1024_01.gif)
 
+![final goodbyes](Andyandkaren.jpg)
+
 <p align="center">
 
 <a href='https://bridieotoole.github.io/codewords/week_11/'> <-- Last Week/Artist Statement </a>
