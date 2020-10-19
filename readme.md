@@ -1,7 +1,7 @@
 
 # Codewords Studio Semester 2 2020
 
-## Dabbling in the world of E-Lit, Pseudo Code, Processing and all in between. 
+## Dabbling in the world of E-Lit, Machinima, Pseudo Code, Processing and all in between. 
 
 
 ### <a href='https://bridieotoole.github.io/codewords/week_01/'>Week 01</a>  |  Introduction
