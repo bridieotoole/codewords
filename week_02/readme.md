@@ -13,15 +13,13 @@ Some of the found letterforms included epic, generative brutalist styles from Ta
 
 ## Other Notable Practitioners
 [Wim Crouwel](https://en.wikipedia.org/wiki/Wim_Crouwel)
-
 :-------------------------:
 [MuirMcNeil (Paul McNeil and Hamish Muir)](https://muirmcneil.com/projects/)
-
 :-------------------------:
 [Muriel Cooper](https://www.aiga.org/medalist-murielcooper)
-
 :-------------------------:
 [Morgane Van Torre](http://morganevantorre.com)
+
 
 While it wasn't necessary to have a digitally created typeface, the artist I selected is a linoleum artist. [*Leonie Staman*](https://www.detoffetoko.nl/leonie-staman) 3D prints her alphabet and manually traces these to create type inspired by the Spirograph techique most children will remember recieving as gifts from the 90's-00's. 
 
