@@ -1,6 +1,6 @@
 # Making FUNctions 
 
-## Week 7 
+## Week 07 
 
 ~ reviewed our learninngs from the semester so far, from weeks 1-6
 
