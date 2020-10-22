@@ -121,4 +121,7 @@ class Fall {
 }
 ```
 
+Along the way, I STRUGGLED big time to some how make effective changes to my code... incoming 'big mess'. 
+![big mess example](bigmess.jpg)
+
 <a href='https://bridieotoole.github.io/codewords/week_10/'> <-- Last Week/Noto Type </a> | <a href='https://bridieotoole.github.io/codewords/week_12/'> Next Week/Lost In Time --> </a>
