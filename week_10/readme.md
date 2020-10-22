@@ -19,5 +19,5 @@ Today in class we presented a milestone checkpoint. [*Here*](https://bridieotool
 
 Through some digging, I found this example replicated the sinking I'd like to create with words disspearing from the screen. Because Amerika's text refers to 'stopping of time', I feel the weightlessness of water to be somewhat a close analogy.
 
-<a href='https://bridieotoole.github.io/codewords/week_09/'> <-- Last Week/An Admiral Start </a> | <a href='https://bridieotoole.github.io/codewords/week_11/'> Next Week/Artist Statement --> </a>
+<a href='https://bridieotoole.github.io/codewords/week_09/'> <-- Last Week/An Admiral Start </a> | <a href='https://bridieotoole.github.io/codewords/week_11/'> Next Week/Roll Back And Take Some Deep Breaths --> </a>
 
