@@ -1,5 +1,5 @@
 # Introduction 
-## Week 1
+## Week 01
 
 In today's age, our concentration is limited and we are easily distracted - we want our information quick, concise and in bullet points before commiting to giving our precious time to an article, lest a book. <br>
 
