@@ -38,8 +38,7 @@ Geos Oblivion by @aka_chang following the charming notes of @shahab_sahhaf - ins
   
 ![gif of sphere](sphere.gif)
 
-<p align="center">
+
 
 <a href='https://bridieotoole.github.io/codewords/week_05/'> <-- Last Week/Pre-Screening of Re-Reading </a> | <a href='https://bridieotoole.github.io/codewords/week_07/'> Next Week/Making FUNctions --> </a>
-  
-</p>
+
