@@ -84,5 +84,5 @@ function mousePressed() {
 
 ![final goodbyes](AndyAndKaren.jpg)
 
-<a href='https://bridieotoole.github.io/codewords/week_11/'> <-- Last Week/Artist Statement </a>
+<a href='https://bridieotoole.github.io/codewords/week_11/'> <-- Last Week/Roll Back And Take Some Deep Breaths </a>
   
