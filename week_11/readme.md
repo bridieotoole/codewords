@@ -120,8 +120,11 @@ class Fall {
   }
 }
 ```
-
-Along the way, I STRUGGLED big time to some how make effective changes to my code... incoming 'big mess'. 
+ 
 ![big mess example](bigmess.jpg)
+Along the way, I STRUGGLED big time to some how make effective changes to my code... incoming 'big mess'. So I finally decided after reading (and re-reading) Karen and Andy's email advising us, if we hadn't achieved all of our hopes and dreams, to roll it back to a version that works. 
+
+During class today Andy gave me some great ideas to incorperate some beautiful music paired with the appearing words, so my hunt began... I stumbled into a classical playlist at the bottom of my music library and found some Bach. What's more beautiful and timeless? 
+
 
 <a href='https://bridieotoole.github.io/codewords/week_10/'> <-- Last Week/Noto Type </a> | <a href='https://bridieotoole.github.io/codewords/week_12/'> Next Week/Lost In Time --> </a>
