@@ -15,9 +15,7 @@ Some of the found letterforms included epic, generative brutalist styles from Ta
 [Wim Crouwel](https://en.wikipedia.org/wiki/Wim_Crouwel)
 :-------------------------:
 [MuirMcNeil (Paul McNeil and Hamish Muir)](https://muirmcneil.com/projects/)
-:-------------------------:
 [Muriel Cooper](https://www.aiga.org/medalist-murielcooper)
-:-------------------------:
 [Morgane Van Torre](http://morganevantorre.com)
 
 
