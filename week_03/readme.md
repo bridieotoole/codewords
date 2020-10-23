@@ -48,7 +48,7 @@ function keyPressed (){
 ```
 ## Re-Readings Development 
 
-To collate our thoughts and cut down the script, our group has been working in a shared [Google doc](https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit ) to achieve this.
+To collate our thoughts and cut down the script, our group has been working in a shared [Google doc](https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit ) to achieve this. We found inspiration for our aesthethic from movies like [*Enter The Void*](https://en.wikipedia.org/wiki/Enter_the_Void) and [*Vertigo*](https://en.wikipedia.org/wiki/Vertigo_(film))
 
 ![](holshared.jpg)
 
