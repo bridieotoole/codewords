@@ -5,7 +5,11 @@
 
 Electronic Literature emcompasses; chatbots, performance live coding, generative texts (eg. AI Dungeon), text animation, motion type and generative novels. I came across Aaron Reed, a writer, designer and researcher who focusses on finding new ways for gamemakers and players to tell stories together in his work [*Passive Aggresive (Procedural Novel)*](https://aaronareed.net/bots-and-generative-texts/)
 
+## Coding With Karen
 
+[*Karen's Spiroworm*]
+:-------------------------:
+![](spiroworm.gif)
 
 ## Re-Readings Development 
 
