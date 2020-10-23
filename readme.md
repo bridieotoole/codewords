@@ -17,6 +17,8 @@
 ### <a href='https://bridieotoole.github.io/codewords/week_12/'>Week 12</a>  |  Lost In Time
 
 
+
+
 Karen and Andy opened the semester with a request to think about a few very simple questions: 
 
 1.	*What was the most recent book of which you interacted?*
