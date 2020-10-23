@@ -17,7 +17,7 @@
 ### <a href='https://bridieotoole.github.io/codewords/week_12/'>Week 12</a>  |  Lost In Time
 
 
-
+## SKO Statement
 
 Karen and Andy opened the semester with a request to think about a few very simple questions: 
 
