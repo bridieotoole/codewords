@@ -81,6 +81,9 @@ function mousePressed() {
   }
 }
 ```
+## A Final Farewell
+
+Thank you, Karen and Andy for an unforgettable studio. Thank you for support, advise, and invaluable education. By far the best power couple and rolemodels I've ever had the pleasure of learning from. 
 
 ![final goodbyes](AndyAndKaren.jpg)
 
