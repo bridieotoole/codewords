@@ -10,7 +10,12 @@ Feedback:
 - Typography is fundamental
 - Keep creating and making many solutions to the problem 
 
-~ datamoshing 
+Andy also shared with us some previous projects he and Karen had worked on in the past. The practice of [*Datamoshing*](http://datamoshing.com): "the process of manipulating the data of media files in order to achieve visual or auditory effects when the file is decoded." 
+
+A key example of where datamoshing became mainstream - and unfortunately not worth pursuing. 
+
+I present you Kanye. 
+![](kanye.gif)
 
 ## Coding with Karen
 
