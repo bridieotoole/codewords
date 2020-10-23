@@ -8,7 +8,7 @@ With Karen, achieving the printed text to screen felt like the biggest hurdle th
 
 ![screenshot](majortest.jpg)
 
-In my endlesss hopes and code manipulation, I've created a [*'pulse'*](https://bridieotoole.github.io/codewords/week_09/Majortestbarelyworking23sept/) for the text to appear and fade off the screen. I feel like this speaks to Amerika's 'pulse of time', this could be super poetic and require user engagement to read the text. But so far all this clicking for an on-screen event is giving me RSI. 
+In my endlesss hopes and code manipulation, I've created a 'pulse' for the text to appear and fade off the screen. I feel like this speaks to Amerika's 'pulse of time', this could be super poetic and require user engagement to read the text. But so far all this clicking for an on-screen event is giving me RSI. 
 
 ![](heartbeat.gif)
 ```
