@@ -2,7 +2,19 @@
 
 ## Week 07 
 
-~ reviewed our learninngs from the semester so far, from weeks 1-6
+Back from our mid-semester break! To start the day off we reviewed our learninngs from the semester so far, from weeks one to six. 
+
+Highlights from the class: 
+- Spirographs 
+- AI dungeon 
+- Minecraft 
+- Generative novels 
+- Spinning type 
+- Machineima  
+- Text to talk
+- Remixing 
+
+After recapping what we've covered, we delved into what's to come and what is expected for our Major and SKO. The best part about using Github for documentation is that we can suport, add-to, and peruse the achievements of others in the class. [Amy Leger's Github](https://astlcreations.github.io/codewords-codes-words/) was the focus of today - her reflections are thoughtful and consise. Deffinitely worth taking a leaf out of Amy's book. 
 
 ~ discussed the SKO submission for wk 13 and checked out the syllabus 
 
