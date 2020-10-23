@@ -15,6 +15,7 @@ Andy also shared with us some previous projects he and Karen had worked on in th
 A key example of where datamoshing became mainstream - and unfortunately not worth pursuing. 
 
 I present you Kanye. 
+
 ![](kanye.gif)
 
 ## Coding with Karen
