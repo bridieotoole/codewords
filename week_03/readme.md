@@ -7,7 +7,7 @@ Electronic Literature emcompasses; chatbots, performance live coding, generative
 
 ## Coding With Karen
 
-[*Karen's Spiroworm*]
+[*Karen's Spiroworm*]()
 :-------------------------:
 ![](spiroworm.gif)
 
