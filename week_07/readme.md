@@ -43,6 +43,8 @@ Later in the lesson we explored libraries within p5js. This lead us explore p5 P
 
 ## Coding with Karen 
 
+![](dance.jpg)
+
 ```
 var song; //initiating our variable
 var analyzer;
