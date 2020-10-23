@@ -13,5 +13,7 @@ A sketch to learn about "class" contruction
 ![example](pluggedin.gif) | ![example](typedwiggle.gif)
 
 
+~ datamoshing 
+
 <a href='https://bridieotoole.github.io/codewords/week_07/'> <-- Last Week/Making FUNctions </a> | <a href='https://bridieotoole.github.io/codewords/week_09/'> Next Week/An Admiral Start --> </a>
 
