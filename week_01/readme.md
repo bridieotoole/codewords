@@ -57,9 +57,6 @@ ellipse (244,250,143,347);
 }
 ```
 
-<p align="center">
-  
-<a href='https://bridieotoole.github.io/codewords/week_02/'>Next Week/Hunting and Gathering --></a>
 
-</p>
+<a href='https://bridieotoole.github.io/codewords/week_02/'>Next Week/Hunting and Gathering --></a>
 
