@@ -7,6 +7,7 @@
 
 
 A sketch to learn about "class" contruction 
+
 ![example](pluggedin.gif)
 
 
