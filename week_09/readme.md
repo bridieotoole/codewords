@@ -11,6 +11,29 @@ With Karen, achieving the printed text to screen felt like the biggest hurdle th
 In my endlesss hopes and code manipulation, I've created a [*'pulse'*](https://bridieotoole.github.io/codewords/week_09/Majortestbarelyworking23sept/) for the text to appear and fade off the screen. I feel like this speaks to Amerika's 'pulse of time', this could be super poetic and require user engagement to read the text. But so far all this clicking for an on-screen event is giving me RSI. 
 
 ![](heartbeat.gif)
+```
+const myText = "And yet this naked body of words just now starting to play out its creative potential is not really my own. It’s part of something much larger than me— some kind of dynamic, shape-shifting intersubjectivity where I am always losing sight of myself as I improvisationally interact with The Network and, without thinking about it, intuitively manipulate the pulse of Time (as if such a thing as Time could actually exist).";
+
+function setup() {
+createCanvas (windowWidth, windowHeight);
+background (0);
+textSize (32); 
+textFont ('Times');
+noStroke();
+}
+
+function draw() {
+  background (0,20);
+  fill(255);
+    text((frameCount*1), 10, 600); 
+    if (frameCount>10) {
+    } 
+}
+  
+function mousePressed(){
+  text(myText, 10, 20, width, height);
+}
+```
 
 ## Notable Practitioner
 [Tim Roden Broeker](https://timrodenbroeker.de)
