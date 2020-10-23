@@ -3,7 +3,7 @@
 
 ![](electronicslides.gif)
 
-Electronic Literature emcompasses; chatbots, performance live coding, generative texts (eg. AI Dungeon), text animation, motion type and generative novels. I came across Aaron Reed, a writer, designer and researcher who focusses on finding new ways for gamemakers and players to tell stories together in his work [*Passive Aggresive (Procedural Novel)*](https://aaronareed.net/bots-and-generative-texts/)
+Electronic Literature emcompasses; chatbots, performance live coding, generative texts (eg. AI Dungeon), text animation, motion type and generative novels. I came across Aaron Reed, a writer, designer and researcher who focusses on finding new ways for gamemakers and players to tell stories together in his work [*Passive Aggresive (Procedural Novel)*](https://aaronareed.net/bots-and-generative-texts/). Which I thought was a really cool way to collaborate. 
 
 ![](AP.jpg)
 
@@ -50,7 +50,7 @@ function keyPressed (){
 ```
 ## Re-Readings Development 
 
-To collate our thoughts and cut down the script, our group has been working in a shared [Google doc](https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit ) to achieve this. We found inspiration for our aesthethic from movies like [*Enter The Void*](https://en.wikipedia.org/wiki/Enter_the_Void) and [*Vertigo*](https://en.wikipedia.org/wiki/Vertigo_(film))
+To collate our thoughts and cut down the script, our group has been working in a shared [Google doc](https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit ) to achieve this. We found inspiration for our aesthethic from movies like [*Enter The Void*](https://en.wikipedia.org/wiki/Enter_the_Void) and [*Vertigo*](https://en.wikipedia.org/wiki/Vertigo_(film)).
 
 ![](holshared.jpg)
 
