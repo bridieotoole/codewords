@@ -2,7 +2,13 @@
 
 ## Week 08
 
-(Under Construction)
+Today was a chance to share our paper prototypes in small groups to help develop our code and recieve feedback from our peers. Andy reinforced that our code is to focus on the text using only typography and code! 
+
+Feedback:
+- Have the words dissolve/ fade instead of click away 
+- Look into perlin noise
+- Typography is fundamental
+- Keep creating and making many solutions to the problem 
 
 
 ## Coding with Karen
