@@ -16,17 +16,7 @@ Highlights from the class:
 
 After recapping what we've covered, we delved into what's to come and what is expected for our Major and SKO. The best part about using Github for documentation is that we can suport, add-to, and peruse the achievements of others in the class. [Amy Leger's Github](https://astlcreations.github.io/codewords-codes-words/) was the focus of today - her reflections are thoughtful and consise. Deffinitely worth taking a leaf out of Amy's book. 
 
-~ discussed the SKO submission for wk 13 and checked out the syllabus 
-
-~ Talked about the Mark Marino book on Critical Code Studies 
-  - he collaborated with data scientists and presented findings of climate change 
-  - non executable code
-  
-~ which leads us into MORE pseudo code 
-
-~ Karen discussed a very current issue for Australian Universities-cuts! 
-
-(27 librarians to be let go this week, make-a-space - no longer and all HDR scholarships frozen...) 
+Andy and Karen introduced us to the work of Mark Marinio and his book on Critical Code Studies. Using non executble code, he colloabrated with data scienctists and presenting his findings of climate change. This lead us into MORE pseudo code and the very current issue of Australian University Cuts for which Karen made her own protest pseudo code below. The one of the most difficult parts of social distancing this year has stopped a lot of honest conversation. Class time doesn't usually allow for casual converations regarding the university or politics for that matter, but to hear what was coming for RMIT, this week alone, is heartbreaking. Make-A-Space: no longer, 27 librarians to be let go, and all HDR scholarships frozen. These moments where Karen and Andy share current changes effecting us all is invaluable. 
 
 ```
 Karen's Code
@@ -44,7 +34,8 @@ void fightTheCuts() {
   }
   print (“university belongs to all Australians”);
 } 
-``` 
+```
+
 ## P5 Play
 
 Later in the lesson we explored libraries within p5js. This lead us explore p5 Play... Is it okay if i spend the rest of the week here? These games are simple, clean and incredibly addictive. It really opened my eyes up to what is possible with code. 
