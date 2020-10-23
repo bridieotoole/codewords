@@ -50,7 +50,7 @@ function keyPressed (){
 
 To collate our thoughts and cut down the script, our group has been working in a shared [Google doc](https://docs.google.com/document/d/19jYVR71h8XhRFNsr-k470x9JxL-L0lmXoieETXrT_1o/edit ) to achieve this.
 
-![](holsahred.jpg)
+![](holshared.jpg)
 
 <a href='https://bridieotoole.github.io/codewords/week_02/'> <-- Last Week/Hunting and Gathering </a> | <a href='https://bridieotoole.github.io/codewords/week_04/'> Next Week/Spinning Text --> </a>
   
