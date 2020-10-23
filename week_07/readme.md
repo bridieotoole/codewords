@@ -63,7 +63,6 @@ function setup() {
   textAlign(CENTER,CENTER);
 }
 
-
 function draw() {
   background(0, 10);
   fill(120);
@@ -85,7 +84,6 @@ function mousePressed() {
     background(0);
     song.loop();
     song.play();
-    
   }
 }
 ```
