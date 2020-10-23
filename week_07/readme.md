@@ -90,7 +90,6 @@ function mousePressed() {
   }
 }
 ```
-~ Example of P5js remix soundtest with Karen 
 
 ## Further Paper Prototyping
 
